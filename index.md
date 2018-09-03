@@ -1,12 +1,10 @@
 <ol>
 	<li>
-		
 		<h3>
-			Put people at the heart of everything you do
+		Put people at the heart of everything you do
 		</h3>
-		<p>Patients, family, carers, staff. Design things that understand and respect people's needs. Take the time to learn about the whole person - their emotional, physical and technical needs.</p><p>Design with compassion.</p></div>
-	</div>
-</li>
+		<p>Patients, family, carers, staff. Design things that understand and respect people's needs. Take the time to learn about the whole person - their emotional, physical and technical needs.</p><p>Design with compassion.</p>	
+	</li>
 <li>
 	<h3>
 		Design for the outcome
