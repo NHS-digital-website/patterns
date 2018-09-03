@@ -11,7 +11,6 @@
 			Design for the outcome
 		</h3>
 		<p>What will good look like? What are the health, wellbeing or other measurable outcomes that your work will impact? Your work should improve lives, either directly or indirectly.</p>
-	</div>
 </li>
 <li>
 	<h3>
